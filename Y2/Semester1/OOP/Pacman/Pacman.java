@@ -12,8 +12,8 @@ public class Pacman {
   public static final String ORANGE = "\033[38;2;219;133;28m"; // Orange
 
   // Pacman and Walls' colors (RGB)
-  public static final String YELLOW = "\033[38;2;253;255;0m"; // Yellow (Pacman)
-  public static final String BLUE = "\033[38;2;33;33;222m"; // Blue (Walls)
+  public static final String YELLOW = "\033[38;2;253;255;0m"; // Yellow
+  public static final String BLUE = "\033[38;2;33;33;222m"; // Blue
 
   public static void main(String[] args) {
     // Example usage of the defined colors
